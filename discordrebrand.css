@@ -1,0 +1,73 @@
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/bearableInbox.css);
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body { font-family: Lato;}
+
+.theme-dark {
+
+     --header-primary: #bcbcbc;
+     --text-normal: #bcbcbc;
+     --interactive-normal: #bcbcbc;
+     --text-link: #7285bc;
+
+     --background-primary: #171717;
+     --background-secondary: #131313;
+     --background-secondary-alt: #101010;
+     --background-tertiary: #101010;
+     --deprecated-card-bg: #171717;
+     --channeltextarea-background: #101010;
+     --input-background: #131313;
+     --background-floating: #131313;
+     --background-modifier-hover: #131313;
+     --background-modifier-selected: #101010;
+     --primary-dark-700: #131313;
+     --button-secondary-background: #1a1a1a;
+     --primary-dark-600: #171717;
+     --primary-dark-500: #131313;
+     --primary-dark-630: #131313;
+     --background-accent: #232323;
+
+     --brand-experiment: #7285bc;
+     --brand-experiment-400: #7285bc;
+     --brand-500: #7285bc;
+     --brand-experiment-360: #7285bc;
+     --brand-experiment-500: #7285bc;
+     --brand-experiment-560: #7285bc;
+
+     --button-positive-background: #6b9073;
+     --text-positive: #6b9073;
+     --status-green-600: #6b9073;
+
+    
+     --button-danger-background: #d46565;
+     --button-outline-danger-border: #d46565;
+     --button-outline-danger-background-hover: #d46565;
+     --button-outline-danger-border-hover: #d46565;
+     --status-yellow-560: #c9ba66;
+     --status-red-500: #d46565;
+     --status-yellow-500: #c9ba66;
+     --status-warning: #c9ba66;
+     --guild-boosting-pink: #d06dae;      
+    }
+    
+    
+.radioBar-1XgZqD { border: 1px solid var(--radio-bar-accent-color); border-radius: 4px;}
+
+.imageWrapper-oMkQl4 { border-radius: 10px; box-shadow: 0 0 3px 0 black;}
+    
+.avatar-6qzftW .wrapper-1VLyxH, .avatar-1HDIsL .wrapper-1VLyxH, .avatar-2MSPKk.wrapper-1VLyxH, .avatar-6qzftW .avatar-b5OQ1N, .avatar-1HDIsL .avatar-b5OQ1N, .avatar-2MSPKk .avatar-b5OQ1N, .avatar-2e8lTP.clickable-31pE3P {
+border-radius: 6px; box-shadow: 0 0 3px 0 black; }
+    
+.avatar-6qzftW  foreignObject, .avatar-1HDIsL  foreignObject, .avatar-2MSPKk foreignObject { mask: none;}
+  
+.radioBar-1XgZqD { border: 1px solid var(--radio-bar-accent-color); border-radius: 4px;}
+
+.imageWrapper-oMkQl4 { border-radius: 10px; box-shadow: 0 0 3px 0 black;}
+
+.wrapper-1HIH0j { background-color: var(--background-secondary); border-radius: 4px; box-shadow: 0 0 3px 0 black;}
+
+.grid-1aWVsE { box-shadow: 0 0 3px 0 black;}
+
+.theme-dark .container-1um7CU { background-color: var(--background-secondary);}
+
+theme-dark .container-2IKOsH, .theme-dark .header-3xB4vB { background-color: var(--background-secondary);}
